@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="searchButton">Search</string>
+    <string name="searchHereText">search here</string>
+    <string name="input_your_login">Input your login</string>
+    <string name="login_text_button">Login</string>
+    <string name="register_text_button">Register</string>
+    <string name="login_edit_text">Login</string>
+    <string name="add_to_favorites">add to favorites</string>
+    <string name="go_to_favorites">Favorites</string>
+    <string name="delete_from_favorites">delete from favorites</string>
+    <string name="history">History</string>
+    <string name="no_registered_login">No such login registered</string>
+    <string name="registered_success">You have registered successfully!</string>
+    <string name="has_such_login">This login is already registered!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_btn">MAP</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="search_map_btn">search</string>
+    <string name="text_map_search">PLACE A TAG</string>
+    <string name="btn_take_photo">Take Photo</string>
+    <string name="my_photo">my photo</string>
+    <string name="camera">camera</string>
+
+
+</resources>
